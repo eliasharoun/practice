@@ -1,1 +1,3 @@
 I just created this readme file for testing...
+
+git is soooo cool!
